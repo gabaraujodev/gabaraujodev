@@ -5,8 +5,8 @@
 <p align="center">I ❤️ solving great challenges using technology. As a computer engineer, I am passionate about tackling complex problems through innovative solutions. I strive to balance my career between technical and managerial roles, which has led me to gain valuable experience in leading teams, coordinating projects, analyzing and continually improving software, and integrating agile development principles.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gabaraujodev&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gabaraujodev&show_icons=true&theme=radical&layout=compact" />
+
+<img width=40% align="center" src="https://github-readme-stats-three-gamma-68.vercel.app/api/top-langs/?username=gabaraujodev&show_icons=true&theme=radical&layout=compact" />
   
  </div>
  
