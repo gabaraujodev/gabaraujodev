@@ -4,7 +4,7 @@
 
 
 
-<p align="center">I ❤️ solving great challenges using technology. As a computer engineer, I am passionate about tackling complex problems through innovative solutions. I strive to balance my career between technical and managerial roles, which has led me to gain valuable experience in leading teams, coordinating projects, analyzing and continually improving software, and integrating agile development principles.</p>&nbsp;
+<p align="center">I am studying Computer Engineering at Cefet-MG and I love solving problems and creating solutions using new technologies. Currently, I am focusing on deepening my knowledge in Backend development. I am passionate about tackling complex challenges and finding innovative solutions.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
   
