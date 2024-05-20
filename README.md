@@ -5,6 +5,8 @@
 <p align="center">I ❤️ solving great challenges using technology. As a computer engineer, I am passionate about tackling complex problems through innovative solutions. I strive to balance my career between technical and managerial roles, which has led me to gain valuable experience in leading teams, coordinating projects, analyzing and continually improving software, and integrating agile development principles.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
+  
+<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=gabaraujodev&show_icons=true&theme=radical" />
 
 <img width=40% align="center" src="https://github-readme-stats-three-gamma-68.vercel.app/api/top-langs/?username=gabaraujodev&show_icons=true&theme=radical&layout=compact" />
   
@@ -22,6 +24,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
