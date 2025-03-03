@@ -40,7 +40,8 @@
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;
-
+![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)&nbsp;
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)&nbsp;
 
 
 
